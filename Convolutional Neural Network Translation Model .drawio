@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:22:06.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="PIUOCj0R8QiZC-TRyA9S" version="21.6.5" type="github">
+  <diagram name="CNN Data Pointer" id="mAWbEG3JjYHGHZbYuTuC">
+    <mxGraphModel dx="1283" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="10" y="140" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="julchLOxvI4Lb5Ah7MZv-9" target="julchLOxvI4Lb5Ah7MZv-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-13" value="English to&lt;br&gt;German" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#EA6B66;spacingTop=5;spacing=3;" parent="julchLOxvI4Lb5Ah7MZv-11" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=zigzag-line;" parent="1" vertex="1">
+          <mxGeometry x="20" y="150" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="julchLOxvI4Lb5Ah7MZv-1" target="julchLOxvI4Lb5Ah7MZv-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-1" value="Cats" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="julchLOxvI4Lb5Ah7MZv-4" target="julchLOxvI4Lb5Ah7MZv-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-4" value="are" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-5" value="cool" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-7" value="Recurrent Neural Network" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-10" value="sind" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="julchLOxvI4Lb5Ah7MZv-19" target="julchLOxvI4Lb5Ah7MZv-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="julchLOxvI4Lb5Ah7MZv-19" value="Katzen" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
